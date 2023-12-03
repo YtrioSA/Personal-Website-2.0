@@ -110,7 +110,7 @@
             </h3>
             <h3 class="text-2xl text-[#000]">ytrios.a@gmail.com</h3>
             <ul class="text-[20px] text-[#000]">
-                <li>Level: 33</li>
+                <li>Level: 34</li>
                 <li>Type: Hacker & Web Developer</li>
                 <li>Skills: Code, Bad Jokes & Gamer</li>
                 <li>OS: Linux Mint 21.2 (Victoria)</li>
