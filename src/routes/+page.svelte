@@ -92,8 +92,6 @@
                     />
                     <title> Good for the brain chess.com: ytriosalmito </title>
                     </svg>
-               
-</svg>
             </h3>
             <h3 class="text-2xl text-[#000]">ytrios.a@gmail.com</h3>
             <ul class="text-[20px] text-[#000]">
